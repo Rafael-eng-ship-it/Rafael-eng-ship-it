@@ -1,90 +1,114 @@
 
-# 👨🏻‍💻 Rafael Rios
+<div align="center">
 
-**`Estudante de Ciência da Computação `**
+# 👋 Olá, eu sou Rafael Rios!
 
-Me chamo **Rafael Rios** e atualmente curso **Ciência da Computação**. Sou apaixonado por tecnologia, resolução de problemas e desenvolvimento de soluções que geram impacto real.
+### 💻 Estudante de Ciência da Computação | Futuro Desenvolvedor Java
 
-Tenho experiência acadêmica e prática no desenvolvimento de aplicações, banco de dados e lógica de programação. Atualmente estou direcionando minha carreira para a área de **Desenvolvimento Java**, estudando ferramentas, linguagens e metodologias utilizadas pelo mercado para transformar aplicaçôes em soluções tecnológicas.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Ciência+da+Computação;Futuro+Desenvolvedor+Java;Sempre+aprendendo+novas+tecnologias!" />
 
-Aqui no GitHub compartilho meus projetos acadêmicos, estudos e aplicações desenvolvidas durante minha jornada na tecnologia.
+</div>
 
-<p align="left">
-    <a href="https://github.com/Rafael-eng-ship-it">
-        <img 
-            alt="GitHub Followers" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Rafael-eng-ship-it?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Rafael-eng-ship-it?tab=repositories">
-        <img 
-            alt="GitHub Stars" 
-            title="Estrelas recebidas" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Rafael-eng-ship-it?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
+---
+
+## 🚀 Sobre mim
+
+🎓 Cursando **Ciência da Computação**
+
+💻 Atualmente focado em **Java**
+
+📚 Estudando:
+
+- Java
+- Orientação a Objetos
+- Spring Boot
+- Banco de Dados
+- APIs REST
+- Git e GitHub
+
+🎯 Objetivo:
+
+Conquistar minha primeira oportunidade como **Desenvolvedor Java** e evoluir constantemente na área de tecnologia.
+
+---
+
+## 🌐 Redes Sociais
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rafael-rios-5469b0346/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rafaelrioss.rr@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rafael-eng-ship-it">
+<img src="https://img.shields.io/github/followers/Rafael-eng-ship-it?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+# 🚀 Tecnologias
 
-<img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<p align="center">
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-<img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<br/>
-<br/>
-
-
-
-### 📊 Estatísticas GitHub
-
-<p>
-<img
-align="left"
-height="130em"
-src="https://github-readme-stats.vercel.app/api?username=Rafael-eng-ship-it&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-align="left"
-height="130em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-eng-ship-it&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
+<img src="https://skillicons.dev/icons?i=java,spring,c,js,nodejs,html,css,mysql,git,github,python,vscode" />
 
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-eng-ship-it&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-eng-ship-it&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### 📫 Contato
+# 🔥 Sequência de Contribuições
 
-💼 LinkedIn: https://www.linkedin.com/in/rafael-rios-5469b0346/
+<p align="center">
 
-📧 E-mail: rafaelrioss.rr@gmail.com
+<img src="https://streak-stats.demolab.com?user=Rafael-eng-ship-it&theme=tokyonight"/>
 
-🚀 Sempre aprendendo, construindo e evoluindo na área de tecnologia.
+</p>
+
+---
+
+
+
+# 📈 Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-eng-ship-it&theme=tokyo-night"/>
+
+</p>
+
+---
+
+
+
+# 💡 Frase
+
+> "A tecnologia move o mundo. O conhecimento constrói o futuro."
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+Se gostar de algum projeto, deixe uma ⭐.
+
+</div>
+```
